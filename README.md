@@ -1,4 +1,4 @@
-
+<p align="center"><img src="Khaymos.png" width="200"></p>
 # Khaymos Linux
 
 A linux distro built from scratch
